@@ -1,0 +1,19 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guidoPascualetti/scrapper.git"
+  },
+  "author": "Pascualetti Guido Manuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guidoPascualetti/scrapper/issues"
+  },
+  "homepage": "https://github.com/guidoPascualetti/scrapper#readme"
+}
